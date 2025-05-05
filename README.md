@@ -1,7 +1,5 @@
 # UiPath-Experiment-1
 # DATE:24-04-2025
-# Register No.: 212224040140
-# Name:M.JOHNPALL
 # AIM:
 Hello world message display.
 # Requirements:
